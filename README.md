@@ -101,4 +101,4 @@ These extensions are well-reviewed, open-source when possible, and come from tru
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](license) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
